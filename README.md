@@ -59,3 +59,5 @@ That't same  because X take fixed 50k UNI away and voters will withdraw parts of
 In this process: 
 UNI Grants could be voters and participate in IUO process instead of just give UNI grants away. and if the votes come from UNI,then the XXX tokens will be burn after the time lock.
 So IUO will make UNI Grants have greater capital capital efficiency. And Since all voters have to give away their UNI tokens instead of show their UNI tokens numbers, whale doesn't have any advantage against small investors.
+
+Any question contact 2139379506@qq.com
